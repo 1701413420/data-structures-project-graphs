@@ -1,0 +1,19 @@
+A 79 323 Empresa1 3.0
+|A B 237 538
+|A E 225 148
+B 237 538 Empresa2 4.0
+|B C 369 201
+C 369 201 Empresa3 4.0
+|C D 871 526
+|C R 1155 337
+D 871 526 Empresa4 1.0
+|D B 237 538
+E 225 148 Empresa5 5.0
+|E F 647 157
+F 647 157 Empresa6 3.0
+|F C 369 201
+R 1155 337 Empresa7 3.0
+|R A 79 323
+|R D 871 526
+|R F 647 157
+asd 833 152 asd 2.0
